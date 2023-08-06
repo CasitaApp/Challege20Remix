@@ -1,5 +1,10 @@
 # Challege20Remix
 
+## JointSavings.sol code:
+
+![JoinSavingsAccountSol](https://github.com/CasitaApp/Challege20Remix/assets/39076992/be1c344b-ce34-46e4-8544-9f766b0ea4ef)
+
+
 ## Test the Deposit Functionality:
 
 Send 1 Ether as Wei
